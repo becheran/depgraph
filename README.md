@@ -9,7 +9,7 @@ Interactive dependency graph visualization tool for golang using the awesome [cy
 Install via:
 
 ``` sh
-go install github/becheran/depgraph
+ go install github.com/becheran/depgraph@latest
 ```
 
 ## Quick Start
